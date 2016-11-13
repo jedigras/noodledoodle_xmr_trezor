@@ -1,0 +1,3 @@
+[submodule "src/trezor-xmr"]
+	path = src/trezor-xmr
+	url = https://github.com/NoodleDoodleNoodleDoodleNoodleDoodleNoo/trezor-xmr
